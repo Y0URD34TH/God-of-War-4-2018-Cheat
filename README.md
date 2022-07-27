@@ -18,6 +18,9 @@ the login is discord based and is not 100% functional i recommend dont use.
 portuguese language is not 100% completed recommend dont use.
 updates may come in the future (or not).
 
+lua:
+Read LuaParams.md to view params that can be used in the lua of cheat.
+
 Known Bugs:
 may crash when entitylist tab is open and dead or in some cutscenes with the entity list tab open.
 may crash in some cases with one hit kill in baldur fights.
