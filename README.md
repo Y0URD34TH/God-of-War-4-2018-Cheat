@@ -9,6 +9,7 @@ Put libcurl.dll, lua53.dll and zlib.dll inside God of War Main Folder (where is 
 Inject the Cheat with a injector of your preference (tested with extreme injector).
 
 Info: 
+
 Cheat open with 'INSERT' key.
 cheat tested in God of War Version 1.0.12.
 the cheat is basic and was made in 5 hours soo dont be surprised if is too simple or bugged.
@@ -19,6 +20,7 @@ portuguese language is not 100% completed recommend dont use.
 updates may come in the future (or not).
 
 lua:
+
 Read LuaParams.md to view params that can be used in the lua of cheat.
 
 Known Bugs:
