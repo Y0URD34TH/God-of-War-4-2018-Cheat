@@ -15,7 +15,8 @@ the cheat is basic and was made in 5 hours soo dont be surprised if is too simpl
 u can make more features with the lua api.
 cheat is for fun proposites.
 the login is discord based and is not 100% functional i recommend dont use.
-portuguese language is not 100% completed recommend dont use.
+portuguese language is not 100% completed recommend dont use.\n
+updates may come in the future (or not).
 
 Known Bugs:
 may crash when entitylist tab is open and dead or in some cutscenes with the entity list tab open.
