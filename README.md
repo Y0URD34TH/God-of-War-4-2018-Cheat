@@ -5,21 +5,21 @@ made by jma#7150
 
 Tutorial:
 
-Put libcurl.dll, lua53.dll and zlib.dll inside God of War Main Folder (where is located the GoW.exe)
-Inject the Cheat with a injector of your preference (tested with extreme injector)
+Put libcurl.dll, lua53.dll and zlib.dll inside God of War Main Folder (where is located the GoW.exe).
+Inject the Cheat with a injector of your preference (tested with extreme injector).
 
 Info: 
-Cheat open with 'INSERT' key
-cheat tested in God of War Version 1.0.12
-the cheat is basic and was made in 5 hours soo dont be surprised if is too simple or bugged
-u can make more features with the lua api
-cheat is for fun proposites
-the login is discord based and is not 100% functional i recommend dont use
-portuguese language is not 100% completed recommend dont use
+Cheat open with 'INSERT' key.
+cheat tested in God of War Version 1.0.12.
+the cheat is basic and was made in 5 hours soo dont be surprised if is too simple or bugged.
+u can make more features with the lua api.
+cheat is for fun proposites.
+the login is discord based and is not 100% functional i recommend dont use.
+portuguese language is not 100% completed recommend dont use.
 
 Known Bugs:
-may crash when entitylist tab is open and dead or in some cutscenes with the entity list tab open
-may crash in some cases with one hit kill in baldur fights
+may crash when entitylist tab is open and dead or in some cutscenes with the entity list tab open.
+may crash in some cases with one hit kill in baldur fights.
 
 Images:
 
