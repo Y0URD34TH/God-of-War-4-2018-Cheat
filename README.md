@@ -24,6 +24,7 @@ lua:
 Read LuaParams.md to view params that can be used in the lua of cheat.
 
 Known Bugs:
+
 may crash when entitylist tab is open and dead or in some cutscenes with the entity list tab open.
 may crash in some cases with one hit kill in baldur fights.
 
