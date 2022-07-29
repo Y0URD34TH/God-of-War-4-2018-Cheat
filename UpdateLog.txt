@@ -1,5 +1,7 @@
-V1.00
+V1.25
 
-First Version!
-All Features Added!
+Added Teleport Options
+Added No-Clip
+Added Search Function in Inventory Tab
+Some bug fixed
 Made by jma#7150
