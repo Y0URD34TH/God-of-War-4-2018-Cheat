@@ -23,10 +23,12 @@ lua:
 
 Read LuaParams.md to view params that can be used in the lua of cheat.
 
-Known Bugs:
+Known Bugs/issues:
 
-may crash when entitylist tab is open and dead or in some cutscenes with the entity list tab open.
+may crash when world tab is open and you are dead or in some cutscenes with the world tab open.
 may crash in some cases with one hit kill in baldur fights.
+main search button doesnt work/under construction (not the inventory search)
+
 
 Images:
 
