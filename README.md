@@ -11,8 +11,11 @@ Inject the Cheat with a injector of your preference (tested with extreme injecto
 Info: 
 
 Cheat open with 'INSERT' key.
-cheat tested in God of War Version 1.0.12.
+
+cheat tested in God of War Version 1.0.12. (cracked and original)
+
 the cheat is basic and was made in 5 hours soo dont be surprised if is too simple or bugged.
+
 u can make more features with the lua api.
 cheat is for fun proposites.
 the login is discord based and is not 100% functional i recommend dont use.
