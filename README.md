@@ -27,7 +27,7 @@ Known Bugs/issues:
 
 may crash when world tab is open and you are dead or in some cutscenes with the world tab open.
 may crash in some cases with one hit kill in baldur fights.
-main search button doesnt work/under construction (not the inventory search)
+main search button doesnt work/under construction (not the inventory search).
 
 
 Images:
