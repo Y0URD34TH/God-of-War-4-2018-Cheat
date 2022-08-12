@@ -1,7 +1,10 @@
-V1.25
+V1.50
 
-Added Teleport Options
-Added No-Clip
-Added Search Function in Inventory Tab
-Some bug fixed
+Added God Mode
+Fixed No-Clip
+Added Jump Feature
+Added Invisible Feature
+Added Auto Kill Enemies
+Added Give God and Remove God to entity
+Fixed Some Bugs
 Made by jma#7150
