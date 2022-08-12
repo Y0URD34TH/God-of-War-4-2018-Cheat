@@ -36,7 +36,7 @@ teleport entity to you doesnt work with some entities
 
 Images:
 
-![image](https://user-images.githubusercontent.com/58450502/181363638-bb3e9547-d852-42c0-b649-d3d874ff926c.png)
+![image](https://user-images.githubusercontent.com/58450502/184276953-1806b371-e20e-42ea-b039-f065883633ef.png)
 
 ![image](https://user-images.githubusercontent.com/58450502/181662464-ffbf73cc-4116-466f-8d66-4f3f44a5d9a7.png)
 
@@ -44,7 +44,8 @@ Images:
 
 ![image](https://user-images.githubusercontent.com/58450502/181662735-10ba7212-55f1-48fc-bd18-dacf9f3b3c8a.png)
 
-![image](https://user-images.githubusercontent.com/58450502/181662493-70516088-7e8f-4579-a6fd-af1cb06e0e6e.png)
+![image](https://user-images.githubusercontent.com/58450502/184276987-36a41743-7737-460f-ae72-1b271c0ad79e.png)
 
-![image](https://user-images.githubusercontent.com/58450502/181662604-7a640291-b4cc-4cf4-81ed-dfa013f506ef.png)
+![image](https://user-images.githubusercontent.com/58450502/184277022-3eb141ce-e1e8-4cf4-846e-39e2af6be972.png)
+
 
