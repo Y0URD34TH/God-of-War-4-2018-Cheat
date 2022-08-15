@@ -8,4 +8,5 @@ Added Invisible Feature
 Added Auto Kill Enemies
 Added Give God and Remove God to entity
 Fixed Some Bugs
+
 Made by jma#7150
