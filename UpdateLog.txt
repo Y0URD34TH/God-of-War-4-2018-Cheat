@@ -1,6 +1,7 @@
-V1.50
+V1.55
 
 Added God Mode
+Added more key binds
 Fixed No-Clip
 Added Jump Feature
 Added Invisible Feature
