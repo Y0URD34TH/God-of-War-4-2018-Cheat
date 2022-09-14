@@ -1,5 +1,8 @@
-V1.55
+V1.75
+V1.00 Loader Version
 
+Added Status Features
+Fixed Some Crashs
 Added God Mode
 Added Max Inventory
 Added more key binds
