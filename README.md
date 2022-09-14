@@ -8,6 +8,16 @@ Tutorial:
 Put libcurl.dll, lua53.dll and zlib.dll inside God of War Main Folder (where is located the GoW.exe).
 Inject the Cheat with a injector of your preference (tested with extreme injector).
 
+tutorial with loader:
+
+Opend the Game and Click in Inject.
+
+or Create files first (not nescessary).
+
+to Delete Files From God of War Folder Simply Click in Delete Files and chose God Of war Path.
+
+![image](https://user-images.githubusercontent.com/58450502/190267701-0c1a096d-78ca-4e33-8fba-082227eb5f08.png)
+
 Info: 
 
 Cheat open with 'INSERT' key.
