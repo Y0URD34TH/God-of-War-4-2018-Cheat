@@ -1,6 +1,8 @@
-V1.75
+V2.00
 V1.00 Loader Version
 
+Added Directional teleport
+Added new add to inventory option
 Added Status Features
 Fixed Some Crashs
 Added God Mode
