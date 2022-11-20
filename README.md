@@ -3,6 +3,8 @@ God of War 4 Internal Cheat With ImGui Menu
 
 made by jma#7150
 
+if you get bugs or crashes send me a message in discord
+
 Tutorial:
 
 Put libcurl.dll, lua53.dll and zlib.dll inside God of War Main Folder (where is located the GoW.exe).
